@@ -1,5 +1,7 @@
 # Frontend Mentor - Age calculator app
 
+<a href="https://helderasao.github.io/age_calculator/">Open page age calculator</a>
+
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
