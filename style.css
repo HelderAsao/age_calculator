@@ -41,7 +41,7 @@ body {
 
 .linhaimagem {
     display: flex;
-    justify-content: space-between;
+    
 }
 
 .linha {
@@ -155,6 +155,7 @@ img:hover {
     margin: auto;
     border: 15px solid black;
     cursor: pointer;
+    
     
     
     

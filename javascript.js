@@ -29,7 +29,7 @@ function resultado(){
     let erro = false
    
 //ANO
-    if(isNaN(finputano) || finputano==0){
+    if(isNaN(finputano) || finputano==0 ){
         inputano.style.borderColor ='hsl(0, 100%, 67%)';
         stringano.style.color='hsl(0, 100%, 67%)';
         erroano.style.display = 'block'
